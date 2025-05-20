@@ -1,5 +1,5 @@
-monthly_income = int(input(print("Enter your monthly income:")))
-monthly_expenses = int(input(print("Enter your total monthly expenses:")))
+monthly_income = input(print("Enter your monthly income:"))
+monthly_expenses = input(print("Enter your total monthly expenses:"))
 
 monthly_savings = monthly_income - (monthly_expenses)
 
